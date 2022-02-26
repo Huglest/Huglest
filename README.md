@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Huglest
 - 👀 I’m interested into became a github programmer
 - 🌱 I’m currently learning Enterprise administration
-- 💞️ I’m looking to collaborate on a big github proyect
+- 💞️ I’m looking to collaborate on a big github project
 - 📫 How to reach me gauto-hugo-@hotmail.com
 
 <!---
